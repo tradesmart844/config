@@ -2,5 +2,7 @@
   "apiUrl": [
     "http://103.240.90.219:3000"
   ],
-  "tradeSmartActive": true
+  "tradeSmart": {
+    "active": true
+  }
 }
